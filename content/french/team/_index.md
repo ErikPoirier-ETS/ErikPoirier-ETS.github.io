@@ -161,6 +161,7 @@ draft: false
 | Omar Maher | M.Sc. | indice de traitement de l'information | ÉTS | En cours
 | Cheikh Mouhamadou Seye | M.Sc. | Analyse de données | UQAM | En cours
 | Reihaneh Pouyan | M.Sc. | Analyse de données | ÉTS | En cours
+| Yasmine Amarouche | M.Sc. | Performance | Polytechnique | En cours
 
 ---
 

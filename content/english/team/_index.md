@@ -161,6 +161,7 @@ draft: false
 | Omar Maher | M.Sc. | Information processing index | ÉTS | In progress
 | Cheikh Mouhamadou Seye | M.Sc. | Data analysis | UQAM | In progress
 | Reihaneh Pouyan | M.Sc. | Data analysis | ÉTS | In progress
+| Yasmine Amarouche | M.Sc. | Performance | Polytechnique | In progress
 
 ---
 
