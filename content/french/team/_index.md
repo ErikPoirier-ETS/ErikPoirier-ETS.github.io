@@ -153,14 +153,14 @@ draft: false
 
 | Nom | Niveau | Domaine | Institution | Statut
 |-----|--------|---------|------------|--------|
-| Victoria Lerognon | PhD | Politiques et impact | ÉTS | En cours
+| Cheikh Mouhamadou Seye | M.Sc. | Analyse de données | UQAM | En cours
+| Ehsan Tabatasabee | M.Sc. | Indicateurs | ÉTS | Gradué
 | Grégoire Banse | PhD | Impact économique | Polytechnique | En cours
 | Lamia Rarrbo | PhD | Collaboration | UQAM | En cours
 | Marianne Cardinale | PhD | BIM et logement social | UQAM | En cours
-| Ehsan Tabatasabee | M.Sc. | Indicateurs | ÉTS | Gradué
 | Omar Maher | M.Sc. | indice de traitement de l'information | ÉTS | En cours
-| Cheikh Mouhamadou Seye | M.Sc. | Analyse de données | UQAM | En cours
 | Reihaneh Pouyan | M.Sc. | Analyse de données | ÉTS | En cours
+| Victoria Lerognon | PhD | Politiques et impact | ÉTS | En cours
 | Yasmine Amarouche | M.Sc. | Performance | Polytechnique | En cours
 
 ---
