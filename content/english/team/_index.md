@@ -156,8 +156,11 @@ draft: false
 | Victoria Lerognon | PhD | Policies and impact | ÉTS | In progress
 | Grégoire Banse | PhD | Economic impact | Polytechnique | In progress
 | Lamia Rarrbo | PhD | Collaboration | UQAM | In progress
+| Marianne Cardinale | PhD | BIM and social housing | UQAM | In progress
 | Ehsan Tabatasabee | M.Sc. | Indicators | ÉTS | Graduated
 | Omar Maher | M.Sc. | Information processing index | ÉTS | In progress
+| Cheikh Mouhamadou Seye | M.Sc. | Data analysis | UQAM | In progress
+| Reihaneh Pouyan | M.Sc. | Data analysis | ÉTS | In progress
 
 ---
 
