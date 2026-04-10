@@ -1,8 +1,8 @@
 ---
 # Banner
 banner:
-  title: "A Benchmarking Platform for Digital Transformation in the Built Asset Industry"
-  content: "Our aim is to develop an interactive benchmarking platform to enable management and continuous improvement of governmental digital transformation initiatives in the construction industry and evaluation of their impact."
+  title: "MétriQue : A Benchmarking Platform for Digital Transformation in the Quebec Built Asset Industry"
+  content: "We are developing an interactive benchmarking platform to enable management and continuous improvement of governmental digital transformation initiatives in the construction industry and evaluation of their impact."
   image: "/images/banner.svg"
   button:
     enable: false

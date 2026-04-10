@@ -1,8 +1,8 @@
 ---
 # Banner
 banner:
-  title: "Une plateforme d'étalonnage pour la transformation numérique dans l'industrie des actifs bâtis"
-  content: "Nous visons à développer une plateforme d'étalonnage interactive pour permettre la gestion et l'amélioration continue des initiatives gouvernementales de transformation numérique en construction et l'évaluation de leur impact."
+  title: "MétriQue : Une plateforme d'étalonnage pour la transformation numérique dans l'industrie des actifs bâtis"
+  content: "Nous développons une plateforme d'étalonnage interactive pour permettre la gestion et l'amélioration continue des initiatives gouvernementales de transformation numérique en construction et l'évaluation de leur impact."
   image: "/images/banner.svg"
   button:
     enable: false
