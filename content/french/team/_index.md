@@ -18,7 +18,7 @@ draft: false
     role="Chercheur principal"
     institution="ÉTS"
     expertise="Gestion de la construction et transformation numérique"
-    linkedin=""
+    linkedin="https://www.linkedin.com/in/erik-poirier/"
 >}}
 
 </div>
@@ -35,7 +35,7 @@ draft: false
     role="Co-chercheur"
     institution="UQAM"
     expertise="Données et gouvernance"
-    linkedin=""
+    linkedin="https://www.linkedin.com/in/aromerotorres/"
 >}}
 
 {{< card-researcher 
@@ -44,7 +44,7 @@ draft: false
     role="Co-chercheur"
     institution="ÉTS"
     expertise="Intelligence artificielle et BIM"
-    linkedin=""
+    linkedin="https://www.linkedin.com/in/ali-motamedi-65145296/"
 >}}
 
 {{< card-researcher 
@@ -53,7 +53,7 @@ draft: false
     role="Co-chercheur"
     institution="ÉTS"
     expertise="Impact environnemental"
-    linkedin=""
+    linkedin="https://www.linkedin.com/in/andrew-henderson-732b383/"
 >}}
 
 {{< card-researcher 
@@ -62,7 +62,7 @@ draft: false
     role="Professeur adjoint"
     institution="ÉTS"
     expertise="Maturité BIM"
-    linkedin=""
+    linkedin="https://www.linkedin.com/in/bsuccar/"
 >}}
 
 {{< card-researcher 
@@ -71,7 +71,7 @@ draft: false
     role="Co-chercheuse"
     institution="UQAM"
     expertise="Collaboration"
-    linkedin=""
+    linkedin="https://www.linkedin.com/in/caroline-coulombe-a2bba4/"
 >}}
 
 {{< card-researcher 
@@ -80,7 +80,7 @@ draft: false
     role="Co-chercheur"
     institution="ÉTS"
     expertise="Politiques et réglementation"
-    linkedin=""
+    linkedin="https://www.linkedin.com/in/gabriel-jobidon-66b5b097/"
 >}}
 
 {{< card-researcher 
@@ -89,7 +89,7 @@ draft: false
     role="Co-chercheuse"
     institution="ÉTS"
     expertise="Innovation et industrialisation"
-    linkedin=""
+    linkedin="https://www.linkedin.com/in/ivanka-iordanova-2ab00012/"
 >}}
 
 {{< card-researcher 
@@ -98,7 +98,7 @@ draft: false
     role="Co-chercheur"
     institution="Polytechnique"
     expertise="Gestion de projets et qualité"
-    linkedin=""
+    linkedin="https://www.linkedin.com/in/mario-bourgault-342a401/"
 >}}
 
 {{< card-researcher 
@@ -107,7 +107,7 @@ draft: false
     role="Co-chercheuse"
     institution="UQAM"
     expertise="Impact social"
-    linkedin=""
+    linkedin="https://www.linkedin.com/in/nathaliedrouin/"
 >}}
 
 {{< card-researcher 
@@ -116,7 +116,7 @@ draft: false
     role="Co-chercheuse"
     institution="UQAM"
     expertise="Visualisation, données et gestion de projet"
-    linkedin=""
+    linkedin="https://www.linkedin.com/in/sara-rankohi-ing-phd-59577588/"
 >}}
 
 {{< card-researcher 
@@ -142,7 +142,7 @@ draft: false
   institution="École de technologie supérieure (ÉTS)"
   expertise="Gestion de projet, mesure de performance"
   image="/images/team/guimaraes.jpg"
-  linkedin=""
+  linkedin="https://www.linkedin.com/in/luciana-gondim/"
 >}}
 
 </div>
@@ -157,7 +157,7 @@ draft: false
 | Ehsan Tabatasabee | M.Sc. | Indicateurs | ÉTS | Gradué
 | Grégoire Banse | PhD | Impact économique | Polytechnique | En cours
 | Lamia Rarrbo | PhD | Collaboration | UQAM | En cours
-| Marianne Cardinale | PhD | BIM et logement social | UQAM | En cours
+| Marianne Cardinal | PhD | BIM et logement social | UQAM | En cours
 | Omar Maher | M.Sc. | indice de traitement de l'information | ÉTS | En cours
 | Reihaneh Pouyan | M.Sc. | Analyse de données | ÉTS | En cours
 | Victoria Lerognon | PhD | Politiques et impact | ÉTS | En cours
