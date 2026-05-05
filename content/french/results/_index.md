@@ -184,6 +184,16 @@ Les **43 mesures** suivantes ont été identifiées lors de la revue de littéra
 
 ## Rapports techniques
 
+### 2026
+
+{{< accordion "Identification des indicateurs de performance  et des stratégies pour leur opérationnalisation" >}}
+**Auteurs:** Équipe de projet
+
+**Publication:** Feuille de route gouvernementale pour le BIM — Activité 1.3.1 Identifier les indicateurs de performance
+
+[Télécharger le rapport (PDF) →](https://www.sqi.gouv.qc.ca/fileadmin/fdr_bim_gouv/fdr-bim_1.3.1_indicateurs_performance.pdf)
+{{< /accordion >}}
+
 ### 2025
 
 {{< accordion "Rapport sur le contexte politique et réglementaire de la transformation numérique du secteur de la construction au Québec" >}}
