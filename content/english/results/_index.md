@@ -184,6 +184,16 @@ The following **43 measures** were identified through literature review and inte
 
 ## Technical Reports
 
+### 2026
+
+{{< accordion "Identification of performance indicators and strategies for their implementation" >}}
+**Auteurs:** Project team
+
+**Publication:** Deliverable for Activity 1.3.1: Identify Performance Indicators
+
+[Télécharger le rapport (PDF) →](https://www.sqi.gouv.qc.ca/fileadmin/fdr_bim_gouv/fdr-bim_1.3.1_indicateurs_performance.pdf)
+{{< /accordion >}}
+
 ### 2025
 
 {{< accordion "Report on the policy and regulatory context of digital transformation in Quebec's construction sector" >}}

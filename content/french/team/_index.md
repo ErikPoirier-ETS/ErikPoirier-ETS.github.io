@@ -153,8 +153,9 @@ draft: false
 
 | Nom | Niveau | Domaine | Institution | Statut
 |-----|--------|---------|------------|--------|
-| Cheikh Mouhamadou Seye | M.Sc. | Analyse de données | UQAM | En cours
+| Cheikh Mouhamadou Seye | M.Sc. | Analyse de données | UQAM | Gradué
 | Ehsan Tabatasabee | M.Sc. | Indicateurs | ÉTS | Gradué
+| Gian Ho Le Son | M.Sc. | Mesure de la performance | UQAM | En cours
 | Grégoire Banse | PhD | Impact économique | Polytechnique | En cours
 | Lamia Rarrbo | PhD | Collaboration | UQAM | En cours
 | Marianne Cardinal | PhD | BIM et logement social | UQAM | En cours
