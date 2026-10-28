@@ -144,6 +144,16 @@ Les **43 mesures** suivantes ont été identifiées lors de la revue de littéra
 
 ## Publications du projet
 
+### 2026
+
+{{< accordion "Déterminants de la réussite des projets immobiliers de logement social et collectif" >}}
+**Authors:** Rarrbo, L., Rankohi, S., Coulombe, C., Drouin, N.  Bourgeault, M. et Gondim de Almeida Guimarães, L.
+
+**Publication:** Déterminants de la réussite des projets immobiliers de logement social et collectif, Document blanc issu d’un atelier lors de la journée Archipel Collaboratif du 29 avril 2026, Observatoire québécois de recherche sur la collaboration.
+
+[Access publication →] (https://observatoire-collaboration.com/wp-content/uploads/2026/10/Determinants-de-limmobilier-social-et-collectif_-Archipel.pdf)
+{{< /accordion >}}
+
 ### 2025
 
 {{< accordion "Evaluating the impact of public policies supporting digital transformation in the construction sector: Towards a systematic evaluation framework" >}}
