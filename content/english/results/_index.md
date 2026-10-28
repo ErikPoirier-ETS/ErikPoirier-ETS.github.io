@@ -151,7 +151,7 @@ The following **43 measures** were identified through literature review and inte
 
 **Publication:** Déterminants de la réussite des projets immobiliers de logement social et collectif, Document blanc issu d’un atelier lors de la journée Archipel Collaboratif du 29 avril 2026, Observatoire québécois de recherche sur la collaboration.
 
-[Access publication →] (https://observatoire-collaboration.com/wp-content/uploads/2026/10/Determinants-de-limmobilier-social-et-collectif_-Archipel.pdf)
+[Access publication →](https://observatoire-collaboration.com/wp-content/uploads/2026/10/Determinants-de-limmobilier-social-et-collectif_-Archipel.pdf)
 {{< /accordion >}}
 
 
