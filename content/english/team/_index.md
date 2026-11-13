@@ -14,7 +14,7 @@ draft: false
 
 {{< card-researcher 
     image="/images/team/poirier.jpg"
-    name="Prof. Erik A. Poirier, Ph.D., PMP"
+    name="Prof. Erik A. Poirier"
     role="Principal Investigator"
     institution="ÉTS"
     expertise="Construction Management and Digital Transformation"
