@@ -154,15 +154,19 @@ draft: false
 | Nom | Niveau | Domaine | Institution | Statut
 |-----|--------|---------|------------|--------|
 | Cheikh Mouhamadou Seye | M.Sc. | Analyse de données | UQAM | Gradué
+| Dina Abouhelal | PhD | Impact environnemental | ÉTS | En cours
 | Ehsan Tabatasabee | M.Sc. | Indicateurs | ÉTS | Gradué
-| Gian Ho Le Son | M.Sc. | Mesure de la performance | UQAM | En cours
 | Grégoire Banse | PhD | Impact économique | Polytechnique | En cours
+| Imène Messaoud | PhD | Contexte | ÉTS | En cours
 | Lamia Rarrbo | PhD | Collaboration | UQAM | En cours
 | Marianne Cardinal | PhD | BIM et logement social | UQAM | En cours
+| Nada Dhifallah | M.Sc. | Réglementation | ÉTS | En cours
 | Omar Maher | M.Sc. | indice de traitement de l'information | ÉTS | En cours
+| Quentin Veglo | PhD | Mesure de la performance | UQAM | En cours
 | Reihaneh Pouyan | M.Sc. | Analyse de données | ÉTS | En cours
 | Victoria Lerognon | PhD | Politiques et impact | ÉTS | En cours
 | Yasmine Amarouche | M.Sc. | Performance | Polytechnique | En cours
+| Zahra Naseri | PhD | Impact social | UQAM | En cours
 
 ---
 

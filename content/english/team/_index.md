@@ -154,14 +154,19 @@ draft: false
 | Name | Level | Focus Area | Institution | Status
 |------|-------|------------|------------|--------|
 | Cheikh Mouhamadou Seye | M.Sc. | Data analysis | UQAM | In progress
+| Dina Abouhelal | PhD | Environmental impact | ÉTS | In progress
 | Ehsan Tabatasabee | M.Sc. | Indicators | ÉTS | Graduated
 | Grégoire Banse | PhD | Economic impact | Polytechnique | In progress
+| Imène Messaoud | PhD | Context | ÉTS | In progress
 | Lamia Rarrbo | PhD | Collaboration | UQAM | In progress
 | Marianne Cardinal | PhD | BIM and social housing | UQAM | In progress
+| Nada Dhifallah | M.Sc. | Regulation | ÉTS | In progress
 | Omar Maher | M.Sc. | Information processing index | ÉTS | In progress
+| Quentin Veglo | PhD | Performance measurement | UQAM | In progress
 | Reihaneh Pouyan | M.Sc. | Data analysis | ÉTS | In progress
 | Victoria Lerognon | PhD | Policies and impact | ÉTS | In progress
 | Yasmine Amarouche | M.Sc. | Performance | Polytechnique | In progress
+| Zahra Naseri | PhD | Social impact | UQAM | In progress
 
 ---
 
